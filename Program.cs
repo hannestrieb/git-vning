@@ -10,7 +10,6 @@ class Program
         Console.WriteLine($"The result is: {result2}");
         int result3 = divide(20, 5);
         Console.WriteLine($"The result is: {result3}");
-
     }
     static int Plus(int a, int b)
     {
@@ -20,6 +19,7 @@ class Program
     {
         return a - b;
     }
+
     static int divide(int a, int b)
     {
         return a / b;

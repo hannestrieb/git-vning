@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("gitövning")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee0ffd7fc5fd8710331d3560d8f60370fcabb394")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f4ff18ec27c33fc29a371c4d347b44cb8fef6ce")]
 [assembly: System.Reflection.AssemblyProductAttribute("gitövning")]
 [assembly: System.Reflection.AssemblyTitleAttribute("gitövning")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
