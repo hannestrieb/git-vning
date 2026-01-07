@@ -1,12 +1,18 @@
 {
   "version": 2,
-<<<<<<< Updated upstream
-  "dgSpecHash": "rvaZCDLnSWE=",
-=======
   "dgSpecHash": "1ZOl++VCxE0=",
->>>>>>> Stashed changes
   "success": true,
   "projectFilePath": "C:\\Users\\trieb\\gitövning\\gitövning.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Problem reading the cache file C:\\Users\\trieb\\gitövning\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0.",
+      "projectPath": "C:\\Users\\trieb\\gitövning\\gitövning.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\trieb\\gitövning\\gitövning.csproj",
+      "targetGraphs": []
+    }
+  ]
 }

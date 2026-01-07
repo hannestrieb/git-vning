@@ -5,8 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9BDA2C8E-0DDE-734D-30E5-38DBC842676E}|git\u00F6vning.csproj|c:\\users\\trieb\\git\u00F6vning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9BDA2C8E-0DDE-734D-30E5-38DBC842676E}|git\u00F6vning.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-<<<<<<< Updated upstream
-=======
     },
     {
       "AbsoluteMoniker": "D:0:0:{9BDA2C8E-0DDE-734D-30E5-38DBC842676E}|git\u00F6vning.csproj|c:\\users\\trieb\\git\u00F6vning\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,7 +13,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9BDA2C8E-0DDE-734D-30E5-38DBC842676E}|git\u00F6vning.csproj|c:\\users\\trieb\\git\u00F6vning\\git\u00F6vning.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{9BDA2C8E-0DDE-734D-30E5-38DBC842676E}|git\u00F6vning.csproj|solutionrelative:git\u00F6vning.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
->>>>>>> Stashed changes
     }
   ],
   "DocumentGroupContainers": [
@@ -25,20 +22,10 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-<<<<<<< Updated upstream
-          "SelectedChildIndex": 0,
-=======
-          "SelectedChildIndex": 3,
->>>>>>> Stashed changes
+          "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
               "$type": "Document",
-<<<<<<< Updated upstream
-=======
               "DocumentIndex": 2,
               "Title": "git\u00F6vning.csproj",
               "DocumentMoniker": "C:\\Users\\trieb\\git\u00F6vning\\git\u00F6vning.csproj",
@@ -63,14 +50,13 @@
             },
             {
               "$type": "Document",
->>>>>>> Stashed changes
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\trieb\\git\u00F6vning\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\trieb\\git\u00F6vning\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-07T13:20:17.303Z",
               "EditorCaption": ""

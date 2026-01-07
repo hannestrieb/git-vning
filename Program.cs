@@ -6,20 +6,16 @@ class Program
     {
         int result = Plus(2, 8);
         Console.WriteLine($"The result is: {result}");
-<<<<<<< Updated upstream
-=======
         int result2 = Minus(10, 4);
         Console.WriteLine($"The result is: {result2}");
         int result3 = divide(20, 5);
         Console.WriteLine($"The result is: {result3}");
->>>>>>> Stashed changes
+
     }
     static int Plus(int a, int b)
     {
         return a + b;
     }
-<<<<<<< Updated upstream
-=======
     static int Minus(int a, int b)
     {
         return a - b;
@@ -28,5 +24,4 @@ class Program
     {
         return a / b;
     }
->>>>>>> Stashed changes
 }
