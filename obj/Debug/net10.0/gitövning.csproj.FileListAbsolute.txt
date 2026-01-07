@@ -1,0 +1,14 @@
+C:\Users\trieb\gitövning\bin\Debug\net10.0\gitövning.exe
+C:\Users\trieb\gitövning\bin\Debug\net10.0\gitövning.deps.json
+C:\Users\trieb\gitövning\bin\Debug\net10.0\gitövning.runtimeconfig.json
+C:\Users\trieb\gitövning\bin\Debug\net10.0\gitövning.dll
+C:\Users\trieb\gitövning\bin\Debug\net10.0\gitövning.pdb
+C:\Users\trieb\gitövning\obj\Debug\net10.0\gitövning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trieb\gitövning\obj\Debug\net10.0\gitövning.AssemblyInfoInputs.cache
+C:\Users\trieb\gitövning\obj\Debug\net10.0\gitövning.AssemblyInfo.cs
+C:\Users\trieb\gitövning\obj\Debug\net10.0\gitövning.csproj.CoreCompileInputs.cache
+C:\Users\trieb\gitövning\obj\Debug\net10.0\gitövning.dll
+C:\Users\trieb\gitövning\obj\Debug\net10.0\refint\gitövning.dll
+C:\Users\trieb\gitövning\obj\Debug\net10.0\gitövning.pdb
+C:\Users\trieb\gitövning\obj\Debug\net10.0\gitövning.genruntimeconfig.cache
+C:\Users\trieb\gitövning\obj\Debug\net10.0\ref\gitövning.dll
