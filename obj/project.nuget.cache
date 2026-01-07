@@ -1,8 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "rcYkvT9J7pY=",
+  "dgSpecHash": "1ZOl++VCxE0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\phili\\Gitworks\\Ovning1\\git-vning\\gitövning.csproj",
+  "projectFilePath": "C:\\Users\\trieb\\gitövning\\gitövning.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Problem reading the cache file C:\\Users\\trieb\\gitövning\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0.",
+      "projectPath": "C:\\Users\\trieb\\gitövning\\gitövning.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\trieb\\gitövning\\gitövning.csproj",
+      "targetGraphs": []
+    }
+  ]
 }
