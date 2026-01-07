@@ -1,6 +1,10 @@
 {
   "version": 2,
+<<<<<<< Updated upstream
   "dgSpecHash": "rvaZCDLnSWE=",
+=======
+  "dgSpecHash": "1ZOl++VCxE0=",
+>>>>>>> Stashed changes
   "success": true,
   "projectFilePath": "C:\\Users\\trieb\\gitövning\\gitövning.csproj",
   "expectedPackageFiles": [],
