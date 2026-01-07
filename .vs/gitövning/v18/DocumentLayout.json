@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\trieb\\git\u00F6vning\\",
+  "WorkspaceRootPath": "C:\\Users\\phili\\Gitworks\\Ovning1\\git-vning\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9BDA2C8E-0DDE-734D-30E5-38DBC842676E}|git\u00F6vning.csproj|c:\\users\\trieb\\git\u00F6vning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9BDA2C8E-0DDE-734D-30E5-38DBC842676E}|git\u00F6vning.csproj|c:\\users\\phili\\gitworks\\ovning1\\git-vning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9BDA2C8E-0DDE-734D-30E5-38DBC842676E}|git\u00F6vning.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9BDA2C8E-0DDE-734D-30E5-38DBC842676E}|git\u00F6vning.csproj|c:\\users\\trieb\\git\u00F6vning\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9BDA2C8E-0DDE-734D-30E5-38DBC842676E}|git\u00F6vning.csproj|c:\\users\\phili\\gitworks\\ovning1\\git-vning\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9BDA2C8E-0DDE-734D-30E5-38DBC842676E}|git\u00F6vning.csproj|solutionrelative:calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9BDA2C8E-0DDE-734D-30E5-38DBC842676E}|git\u00F6vning.csproj|c:\\users\\trieb\\git\u00F6vning\\git\u00F6vning.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{9BDA2C8E-0DDE-734D-30E5-38DBC842676E}|git\u00F6vning.csproj|c:\\users\\phili\\gitworks\\ovning1\\git-vning\\git\u00F6vning.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{9BDA2C8E-0DDE-734D-30E5-38DBC842676E}|git\u00F6vning.csproj|solutionrelative:git\u00F6vning.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -27,38 +27,36 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "git\u00F6vning",
-              "DocumentMoniker": "C:\\Users\\trieb\\git\u00F6vning\\git\u00F6vning.csproj",
+              "Title": "git\u00F6vning.csproj",
+              "DocumentMoniker": "C:\\Users\\phili\\Gitworks\\Ovning1\\git-vning\\git\u00F6vning.csproj",
               "RelativeDocumentMoniker": "git\u00F6vning.csproj",
-              "ToolTip": "C:\\Users\\trieb\\git\u00F6vning\\git\u00F6vning.csproj",
+              "ToolTip": "C:\\Users\\phili\\Gitworks\\Ovning1\\git-vning\\git\u00F6vning.csproj",
               "RelativeToolTip": "git\u00F6vning.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-07T13:32:07.209Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-07T13:32:07.209Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "calculator.cs",
-              "DocumentMoniker": "C:\\Users\\trieb\\git\u00F6vning\\calculator.cs",
+              "DocumentMoniker": "C:\\Users\\phili\\Gitworks\\Ovning1\\git-vning\\calculator.cs",
               "RelativeDocumentMoniker": "calculator.cs",
-              "ToolTip": "C:\\Users\\trieb\\git\u00F6vning\\calculator.cs",
+              "ToolTip": "C:\\Users\\phili\\Gitworks\\Ovning1\\git-vning\\calculator.cs",
               "RelativeToolTip": "calculator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-07T13:32:02.882Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-07T13:32:02.882Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\trieb\\git\u00F6vning\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\phili\\Gitworks\\Ovning1\\git-vning\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\trieb\\git\u00F6vning\\Program.cs",
+              "ToolTip": "C:\\Users\\phili\\Gitworks\\Ovning1\\git-vning\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-07T13:20:17.303Z",
               "EditorCaption": ""
